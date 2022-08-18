@@ -8,7 +8,7 @@
 <h2>My socials:</h2>
 <ul>
 <li>Twitter - https://twitter.com/DeltaCeleb</li>
-<li>LinkedIn - https://www.linkedin.com/in/naomi-okorodudu</li>
+<li>LinkedIn - https://www.linkedin.com/in/naomi-okorodudu-9775581b2</li>
 </ul>
 **Here's a quick summary about me**:
 
